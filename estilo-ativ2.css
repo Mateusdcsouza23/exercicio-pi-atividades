@@ -1,0 +1,16 @@
+.primeiro {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border: 2px rgb(10, 247, 10) solid ;
+    margin: 100px;
+}
+
+.segunda {
+    background-color: black;
+    height: 25vh;
+    width: 50%;
+    border: 10px red dashed;
+    margin-top: 100px;
+    margin-left: 100px;
+}

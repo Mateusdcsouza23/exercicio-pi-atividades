@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.pai {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border:10px black dotted;
+}
