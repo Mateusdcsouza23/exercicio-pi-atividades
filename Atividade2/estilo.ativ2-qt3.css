@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.pai {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border:10px black dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.filho {
+       background-color: yellow;
+       height: 50px;
+       width: 30%;
+
+}
+
+.filho2 {
+
+    background-color:rgba(255, 68, 0, 0.925);
+    height: 100px;
+    width: 30%;
+
+}
+
+.filho3 {
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
